@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Seongheum%20Choi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Technical%20Lead%20%C2%B7%20Seoul%20%E2%86%92%20building%20for%20the%20US&descSize=16&descAlignY=56&animation=fadeIn" alt="header" />
 
-<a href="https://github.com/seongheum-choi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=560&lines=Rust+on+the+server%2C+TypeScript+on+the+edge;Shipping+a+US-market+product+from+Seoul;Infrastructure+that+boring+people+can+sleep+through" alt="typing" />
-</a>
-
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=seongheum-choi&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views" />
@@ -18,14 +14,14 @@
 
 ### About
 
-I'm a **Technical Lead** at [@team-alean](https://github.com/team-alean), where I build and run
-**ALESE** — a product aimed at the **US market**, engineered out of Seoul.
+I'm a **Technical Lead** at [@team-alean](https://github.com/team-alean), currently building
+**ALESE** — a pre-launch product for the **US market**, engineered out of Seoul.
 
 - 🦀 **Rust + Axum + Diesel** on the server, **TypeScript + Remix** on the client
-- ☸️ I own the platform end to end: **Kubernetes**, **OpenTofu**, **PostgreSQL**, CI/CD, on-call
+- ☸️ I own the platform end to end: **Kubernetes**, **OpenTofu**, **PostgreSQL**, CI/CD, release tooling
 - 🤖 Lately: agent tooling — Claude Code skills, Linear automation, self-hosted dev agents
-- 🌏 Working across a 13–16 hour gap with US users, which makes async writing a core skill
-- 💬 Ask me about Rust services, Remix at scale, or running infra with a small team
+- 🌏 Building for a market 13–16 hours behind us, which makes async writing a core skill
+- 💬 Ask me about Rust services, Remix, or running infra with a small team
 
 ---
 
@@ -51,7 +47,6 @@ I'm a **Technical Lead** at [@team-alean](https://github.com/team-alean), where 
 **Frontend**
 
 ![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 **Platform**
