@@ -118,17 +118,6 @@ I'm a **Technical Lead** at [@team-alean](https://github.com/team-alean), where 
 
 ---
 
-### Selected Work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [remix3-skill](https://github.com/seongheum-choi/remix3-skill) | Claude Code skill for Remix v3 — component model, fetch-router, middleware, Frames | Markdown, Agents |
-| [kakao-harvester](https://github.com/seongheum-choi/kakao-harvester) | Chat log harvesting and analysis pipeline | Rust |
-| [settings](https://github.com/seongheum-choi/settings) | My whole machine as code — shell, editor, agents | Shell, Nix-ish |
-| [kma-grid](https://github.com/seongheum-choi/kma-grid) | Korea Meteorological Administration grid coordinate converter | Rust |
-
----
-
 <div align="center">
 
 ### Connect
