@@ -19,7 +19,7 @@
 ### About
 
 I'm a **Technical Lead** at [@team-alean](https://github.com/team-alean), where I build and run
-**Pylon** and **ALESE** — products aimed at the **US market**, engineered out of Seoul.
+**ALESE** — a product aimed at the **US market**, engineered out of Seoul.
 
 - 🦀 **Rust + Axum + Diesel** on the server, **TypeScript + Remix** on the client
 - ☸️ I own the platform end to end: **Kubernetes**, **OpenTofu**, **PostgreSQL**, CI/CD, on-call
