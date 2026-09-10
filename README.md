@@ -73,6 +73,23 @@ I'm a **Technical Lead** at [@team-alean](https://github.com/team-alean), where 
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=seongheum-choi&hide_border=true&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com?user=seongheum-choi&hide_border=true&theme=default" alt="streak" />
+</picture>
+
+</div>
+
+<!--
+  Disabled 2026-09-10: the free Vercel instances behind these cards are out of
+  quota (trophy and activity-graph return HTTP 402, github-readme-stats returns
+  503). To re-enable, deploy your own instance of each project to Vercel and
+  swap the hostname below, then uncomment this block.
+
+    https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+    https://github.com/ryo-ma/github-profile-trophy
+    https://github.com/Ashutosh00710/github-readme-activity-graph
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=seongheum-choi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=seongheum-choi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="github stats" />
 </picture>
@@ -81,22 +98,10 @@ I'm a **Technical Lead** at [@team-alean](https://github.com/team-alean), where 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongheum-choi&layout=compact&langs_count=8&hide_border=true&theme=default" alt="top languages" />
 </picture>
 
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=seongheum-choi&hide_border=true&theme=tokyonight" />
-  <img height="180" src="https://streak-stats.demolab.com?user=seongheum-choi&hide_border=true&theme=default" alt="streak" />
-</picture>
-
-<br /><br />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=seongheum-choi&bg_color=00000000&color=4FC3F7&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
-<br />
-
 <img src="https://github-profile-trophy.vercel.app/?username=seongheum-choi&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
+-->
 
 ---
 
