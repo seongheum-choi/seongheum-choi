@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Seongheum%20Choi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Technical%20Lead%20%C2%B7%20Seoul%20%E2%86%92%20building%20for%20the%20US&descSize=16&descAlignY=56&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Seongheum%20Choi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Problem%20Solver&descSize=16&descAlignY=56&animation=fadeIn" alt="header" />
 
 <br />
 
@@ -14,13 +14,11 @@
 
 ### About
 
-I'm a **Technical Lead** at [@team-alean](https://github.com/team-alean), currently building
-**ALESE** — a pre-launch product for the **US market**, engineered out of Seoul.
+I solve problems at [@team-alean](https://github.com/team-alean), currently building **ALESE**.
 
 - 🦀 **Rust + Axum + Diesel** on the server, **TypeScript + Remix** on the client
 - ☸️ I own the platform end to end: **Kubernetes**, **OpenTofu**, **PostgreSQL**, CI/CD, release tooling
 - 🤖 Lately: agent tooling — Claude Code skills, Linear automation, self-hosted dev agents
-- 🌏 Building for a market 13–16 hours behind us, which makes async writing a core skill
 - 💬 Ask me about Rust services, Remix, or running infra with a small team
 
 ---
@@ -53,7 +51,6 @@ I'm a **Technical Lead** at [@team-alean](https://github.com/team-alean), curren
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
